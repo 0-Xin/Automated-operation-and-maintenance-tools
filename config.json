@@ -1,0 +1,7 @@
+{
+    "version": "1.0.0",
+    "settings": {
+        "scan_timeout": 30,
+        "max_threads": 10
+    }
+}
